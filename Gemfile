@@ -2,7 +2,7 @@ source 'http://rubygems.org'
 
 group :development do
 	gem 'rspec-rails', '2.6.1'
-
+    gem 'annotate', :git => "https://github.com/ctran/annotate_models.git"
 
 end
 
